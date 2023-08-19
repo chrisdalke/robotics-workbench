@@ -33,9 +33,36 @@ This list is divided into categories, pick and choose what you want from each on
   - JST-PH
   - DuPont
   - Crimp Connectors
+  - female pin headers
+  - male pin headers
+  - male pin headers (90 deg)
+  - male-male pin headers
+
+- electronics parts
+  - variable buck power supply
+  - linear regulars
+  - mosfets
+  - capacitor set
+  - resistor set
+  - inductor set
+  - RGB LEDs
+  - limit switches
+  - shrink wrap
+  - Stepper drivers
+ 
+- RC supplies
+-   Various BLDC motors
+-   ESCs
+-   BECs
+-   Servo jumper cables
+-   RC transmitter
+-   RC receiver
+- Servo tester
+- Battery charger
 
 - Hardware
   - M2
+  - M2.5
   - M3
   - M4
   - M5
@@ -59,6 +86,7 @@ This list is divided into categories, pick and choose what you want from each on
 
 - Tools
   - Ruler
+  - Tape measure
   - Calipers
   - Soldering Iron
   - Helping Hands

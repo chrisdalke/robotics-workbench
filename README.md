@@ -1,5 +1,21 @@
 # robotics-workbench
-An small electronics &amp; robotics workbench shopping list
+
+## Overview
+
+Interested in building small robotics + electronics projects? This list is a "starter pack" of electronics supplies + tools that I've found useful in a small home maker's workbench.
+
+This list might be useful for:
+- Small electronics projects
+- Small robots
+- RC aircraft and vehicles
+- IoT projects
+- 3D Prints and Mixed-media art
+
+This list doesn't cover:
+- Large projects you can't do inside an apartment/house (Welding, woodwork, etc)
+- Precision surface-mount PCBs
+
+## The List
 
 - Connectors
   - XT-30

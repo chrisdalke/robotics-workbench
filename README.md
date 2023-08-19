@@ -15,6 +15,10 @@ This list doesn't cover:
 - Large projects you can't do inside an apartment/house (Welding, woodwork, etc)
 - Precision surface-mount PCBs
 
+## The Organizational System
+
+This list is divided into categories, pick and choose what you want from each one. I've included links to some good storage containers, label makers, etc which I use to organize my desk.
+
 ## The List
 
 - Connectors

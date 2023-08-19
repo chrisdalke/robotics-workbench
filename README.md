@@ -65,6 +65,14 @@ This list is divided into categories, pick and choose what you want from each on
   - Magnifying Glass
   - Microscope
   - Oscilliscope
+  - multimeter
+  - Metric hex
+  - Imperial hex
+  - phillips head screwdrivers
+  - cordless drill
+  - drill bits
+  - forsner bits
+  - chamfer bits
   - Variable Power Supply
   - Hot Air Rework Station
   - Heat Gun
@@ -102,3 +110,6 @@ This list is divided into categories, pick and choose what you want from each on
 
 - Motors
   - Stepper Motors
+  - small servos
+  - large servos
+  - geared motors with encoders

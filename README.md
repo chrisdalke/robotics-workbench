@@ -20,6 +20,12 @@ This list is divided into categories, pick and choose what you want from each on
 
 ## The List
 
+|Part Name|Description|Purchasing Link|
+|-----|-----|-----|
+|XT-30|Xt|...|
+|XT-60|Xt|...|
+|XT-90|Xt|...|
+
 - Connectors
   - XT-30
   - XT-60
@@ -113,6 +119,7 @@ This list is divided into categories, pick and choose what you want from each on
   - pcb mount buttons
 
 - Wire
+- 24AWG - 10AWG
  
 - Computing Hardware & Microcontrollers
   - Raspberry Pi 4
@@ -120,7 +127,8 @@ This list is divided into categories, pick and choose what you want from each on
   - Intel NUC
   - 
 
- - Rapid Prototyping
+### Rapid Prototyping
+
   - 3D Printer
   - Hairspray
   - Filament (PLA, ABS, PETG, TPU, etc)

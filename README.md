@@ -82,18 +82,19 @@ This list is divided into categories, pick and choose what you want from each on
 - Micro SD cards
 - Micro SD -> USB
 
-
-
-- Tools
-  - Ruler
-  - Tape measure
-  - Calipers
+- Electronics Tools
   - Soldering Iron
   - Helping Hands
   - Magnifying Glass
   - Microscope
   - Oscilliscope
   - multimeter
+  - Digital signal analyzer
+
+- Tools
+  - Ruler
+  - Tape measure
+  - Calipers
   - Metric hex
   - Imperial hex
   - phillips head screwdrivers
@@ -116,15 +117,16 @@ This list is divided into categories, pick and choose what you want from each on
 
 - Wire
  
-- Computer stuff
+- Computing Hardware & Microcontrollers
   - Raspberry Pi 4
   - Raspberry Pi Mini
   - Intel NUC
   - 
- 
-- 3D Printer
+
+ - Rapid Prototyping
+  - 3D Printer
   - Hairspray
-  - Filament
+  - Filament (PLA, ABS, PETG, TPU, etc)
  
 - Solvents and Cleaners
   - Isopropyl Alcohol
@@ -132,7 +134,6 @@ This list is divided into categories, pick and choose what you want from each on
   - spray bottles
   - painting mixer cans
   - paint brushes
-  - 
 
 
 

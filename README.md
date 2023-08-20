@@ -14,7 +14,7 @@ This list doesn't cover:
 - Large projects you can't do inside an apartment/house (Welding, woodwork, etc)
 - Precision surface-mount PCBs
 
-## The Organizational System
+I don't suggest buying all this at once; pick and choose the parts you need from this pack and slowly build up your library. You can build up a good parts library by sharing common components; for example using XT connectors any time you need to add DC power interconnects to your project.
 
 This list is divided into categories, pick and choose what you want from each one. I've included links to some good storage containers, label makers, etc which I use to organize my desk.
 

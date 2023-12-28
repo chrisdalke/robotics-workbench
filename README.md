@@ -11,7 +11,7 @@ This list might be useful for:
 - 3D Prints and Mixed-media art
 
 This list doesn't cover:
-- Large projects you can't do inside an apartment/house (Welding, woodwork, etc)
+- Large or messy projects you can't do inside an apartment/house (Welding, woodwork, etc)
 - Precision surface-mount PCBs
 
 I **don't** recommend buying all this at once; instead, pick and choose the parts you need from this pack and slowly build up your library as you build projects. You can build up a good parts library by sharing common components between projects; for example using XT connectors any time you need to add DC high-current interconnects to your project or JST-XH connectors for sensor connections.
